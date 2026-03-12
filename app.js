@@ -29,7 +29,7 @@ try {
     console.log("Failed to connect to MongoDB");
 }
 
-const yourNameAndEmoji = { name: 'barry', emoji: '🐸' }; //don't use my frog. 
+const yourNameAndEmoji = { name: 'Ryan', emoji: '👑' }; //don't use my frog. 
 
 
 //app instantiations
