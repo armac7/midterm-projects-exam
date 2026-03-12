@@ -1,0 +1,29 @@
+{
+  "name": "midterm-projects-exam",
+  "version": "1.0.0",
+  "description": "The repo for the midterm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armac7/midterm-projects-exam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armac7/midterm-projects-exam/issues"
+  },
+  "homepage": "https://github.com/armac7/midterm-projects-exam#readme",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mongoose": "^9.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
